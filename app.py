@@ -1,8 +1,8 @@
-pip install pyspark
+!pip install pyspark
 
-pip install seaborn
+!pip install seaborn
 
-pip install matplotlib
+!pip install matplotlib
 
 # Import SparkSession from pyspark.sql
 from pyspark.sql import SparkSession
